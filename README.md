@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Matias Guerrero
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+ <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" align='right'/>
 <br/>
 
 <p align="center">
