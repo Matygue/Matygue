@@ -22,9 +22,6 @@ Hi, I'm Matias Guerrero
 ```
 <hr>
 
-
-## 🛠️ My Favorite Tools
-
 ### 👨‍💻 Programming Languages
 
 <p>
