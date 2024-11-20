@@ -12,17 +12,16 @@ Hi, I'm Matias Guerrero
 
 ```
 💻 I am a self taught Machine Learning Developer
-📚 I am Studiant in Computer Science from the University of Buenos Aires Argentina
+📚 I am student in Computer Science from the University of Buenos Aires 
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+🔭 I am Working on Deep Learning & Machine Learning
+🌱 I am Learning about Computer Vision and Machine Learning stuff
+👨‍💻 Eager to learn more and more each day
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
 ```
 <hr>
-
-### From San Clemente to the World
 
 ### 👨‍💻 Programming Languages
 
